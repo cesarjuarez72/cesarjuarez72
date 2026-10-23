@@ -14,19 +14,13 @@ I bridge the gap between machine learning pipelines, statistical rigor, and clea
 ### 🛠️ Core Toolchain
 
 **Machine Learning & Modeling**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,scikitlearn,r&perline=10" alt="Machine Learning Stack" />
-</p>
+![Machine Learning Stack](https://skillicons.dev/icons?i=py,pytorch,scikitlearn,r&perline=10)
 
 **Data Engineering & Systems**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,docker,bash,git,github&perline=10" alt="Systems Stack" />
-</p>
+![Systems Stack](https://skillicons.dev/icons?i=mysql,postgres,sqlite,docker,bash,git,github&perline=10)
 
 **Analytics, Visualization & Development**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,html,css,linux,md&perline=10" alt="Analytics Tools" />
-</p>
+![Analytics Tools](https://skillicons.dev/icons?i=vscode,postman,html,css,linux,md&perline=10)
 
 ---
 
